@@ -1,2 +1,2 @@
 # ChatGPT-sharp
-C# Unoffcial Remote access to ChatGPT
+C# Unofficial Remote access to ChatGPT
